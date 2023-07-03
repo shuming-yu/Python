@@ -9,6 +9,9 @@
 3. requests
 - 參考 : https://pypi.org/project/requests/
 
+4. lxml
+- 參考 : https://pypi.org/project/lxml/
+
 ### 參考網址
 
 1. 7個Python使用BeautifulSoup開發網頁爬蟲的實用技巧
